@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "composite": true
+  },
+  "references": [
+    { "path": "../core" }
+  ],
+  "include": ["main.ts"]
+}
